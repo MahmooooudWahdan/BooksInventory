@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="empty_view_title_text">Library is empty</string>
+    <string name="empty_view_subtitle_text">Add a book</string>
+
+    <string name="egypt">EG</string>
+    <string name="Usa">USA</string>
+    <string name="Uae">UAE</string>
+    <string name="minimum_value">Minimum Value reached</string>
+    <string name="insert_failed">Book Insertion Failed</string>
+    <string name="insert_succecfull">Insertion Succeded</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="update_succeded">Update Succeded</string>
+    <string name="deletion_failed">Deletion Failed</string>
+    <string name="deletion_succesfull">Deletion Succsfull</string>
+    <string name="unknown_Supplier">Unknown Supplier</string>
+    <string name="invalid_input">Invalid Input</string>
+</resources>
+
